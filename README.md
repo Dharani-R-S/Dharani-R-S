@@ -1,16 +1,29 @@
-## Hi there 👋
+<p align="center">
+  You thought this was just another GitHub profile.
+  <br>
+  It was part of my design.
+</p>
 
-<!--
-**Dharani-R-S/Dharani-R-S** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Dharani%20RS&fontColor=ffffff)
 
-Here are some ideas to get you started:
+About Me
+- AI & ML Explorer
+- MERN Stack Developer
+- Building intelligent systems & anime-inspired projects
+- Future: Japan 🇯🇵
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> "Power is not given. It is taken."
+
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
+![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
+![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
+![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+
+![Stats](https://github-readme-stats.vercel.app/api?username=Dharani-R-S&show_icons=true&theme=tokyonight)
+
+## 🌸 Senbonzakura Releases
+
+- ⚔️ AnimeAnytime — Streaming platform (MERN)
+- ⚔️ MangaVortex — Manga ecosystem with collections
+
+![snake gif](https://github.com/Dharani-R-S/Dharani-R-S/blob/output/github-contribution-grid-snake.svg)
