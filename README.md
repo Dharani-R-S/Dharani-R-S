@@ -1,29 +1,107 @@
+<!-- Top Glow -->
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0f0c29,100:302b63&height=3" />
+
 <p align="center">
-  You thought this was just another GitHub profile.
+  You were never just viewing a profile.
   <br>
-  It was part of my design.
+  You were already inside the design.
 </p>
 
-![banner](https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=200&section=header&text=Dharani%20RS&fontColor=ffffff)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=9F7AEA&center=true&vCenter=true&width=600&lines=AI+Engineer+in+Progress;MERN+Stack+Developer;Building+Intelligent+Systems;Destination:+Japan" />
+</p>
 
-About Me
-- AI & ML Explorer
-- MERN Stack Developer
-- Building intelligent systems & anime-inspired projects
-- Future: Japan 🇯🇵
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,100:302b63&height=260&section=header&text=Dharani%20RS&fontColor=ffffff&fontSize=44&animation=fadeIn&fontAlignY=35" />
+</p>
 
-> "Power is not given. It is taken."
+---
 
-![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python)
-![React](https://img.shields.io/badge/React-black?style=for-the-badge&logo=react)
-![Node](https://img.shields.io/badge/Node.js-black?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/MongoDB-black?style=for-the-badge&logo=mongodb)
+## 🧠 Identity
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Dharani-R-S&show_icons=true&theme=tokyonight)
+<p align="center">
+AI & ML Explorer • MERN Stack Developer • System Builder  
+<br><br>
+Focused on AI systems, anime-inspired platforms, and intelligent user experiences.
+</p>
 
-## 🌸 Senbonzakura Releases
+<p align="center">
+<i>"Control is not imposed. It is established."</i>
+</p>
 
-- ⚔️ AnimeAnytime — Streaming platform (MERN)
-- ⚔️ MangaVortex — Manga ecosystem with collections
+---
 
-![snake gif](https://github.com/Dharani-R-S/Dharani-R-S/blob/output/github-contribution-grid-snake.svg)
+## ⚔️ Arsenal
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,react,nodejs,mongodb,js,git,cpp&theme=dark" />
+</p>
+
+---
+
+## 🧬 Current Evolution
+
+<p align="center">
+🔹 AI Systems & Agents <br>
+🔹 Anime-Based Platforms <br>
+🔹 Human-like Interaction (Project Mai) <br>
+🔹 Multilingual AI (EN ⇄ JP)
+</p>
+
+---
+
+## 🌸 Senbonzakura Systems
+
+### ⚔️ Core Systems
+- **AnimeAnytime** — Full-stack anime streaming platform (MERN + Jikan API)  
+- **MangaVortex** — Manga reader ecosystem with collections & wishlist (MERN + MangaDex API)  
+- **Project Mai** — AI Companion with personality, memory & voice (WIP)
+
+### 🧠 AI & Experimental Systems
+- **AI Research Assistant** — LangChain + Groq (LLaMA3) powered research tool  
+- **Multilingual Resume Builder Agent** — AI-based EN ⇄ JP resume translator & formatter  
+- **AI Multiverse Persona Synthesizer** — Multi-personality AI system
+
+---
+
+## 📊 Domain Expansion
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharani-R-S&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=9F7AEA&icon_color=9F7AEA" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharani-R-S&theme=tokyonight&hide_border=true&background=0d1117&ring=9F7AEA&fire=9F7AEA" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharani-R-S&theme=tokyonight" />
+</p>
+
+---
+
+## 🌀 Activity Pattern
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dharani-R-S/Dharani-R-S/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## 🧩 Philosophy
+
+<p align="center">
+Systems are not built to function.  
+They are built to evolve.
+</p>
+
+<p align="center">
+<i>"Admiration is distance. Understanding is control."</i>
+</p>
+
+---
+
+<!-- Footer -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=302b63,0f0c29&height=120&section=footer" />
+</p>
