@@ -25,8 +25,8 @@
 <h3 align="center">I N T E L L I G E N C E &nbsp; & &nbsp; I N F R A S T R U C T U R E</h3>
 
 <p align="center">
-Designing intelligent systems that learn, adapt, and scale.<br>
-Focused on machine learning, reinforcement systems, and computational modeling of complex environments.
+Designing systems that learn, adapt, and scale.<br>
+Focused on machine learning, reinforcement systems, and computational modeling.
 </p>
 
 <br>
@@ -50,34 +50,34 @@ Focused on machine learning, reinforcement systems, and computational modeling o
   → Infers latent physical laws from simulated environments via symbolic regression.
 
 * **`quantum_optimizer`**  
-  → Explores non-convex optimization using tunneling-inspired search beyond gradient descent.
+  → Explores non-convex optimization using tunneling-inspired search.
 
 ---
 
-#### `[ 02 ] INTELLIGENCE & LEARNING SYSTEMS`
+#### `[ 02 ] INTELLIGENCE SYSTEMS`
 * **`kanji_rl_spaced_repetition`**  
-  → Reinforcement learning model for adaptive memory optimization beyond SM-2 baselines.
+  → Reinforcement learning model for adaptive memory optimization.
 
 * **`visionforge-ai`**  
-  → Generative system for high-fidelity synthesis and modeling.
+  → Generative system for high-fidelity synthesis.
 
 * **`Resume-Builder_Translator-Agent`**  
-  → Cross-lingual intelligence system for EN ⇄ JP transformation and structured formatting.
+  → Cross-lingual system for EN ⇄ JP transformation.
 
 ---
 
-#### `[ 03 ] FULL-STACK & DATA SYSTEMS`
+#### `[ 03 ] FULL-STACK SYSTEMS`
 * **`global-economic-dashboard`**  
-  → Economic intelligence system for macro indicators and country-level trend analysis.
+  → Economic intelligence system for macro indicators and trend analysis.
 
 * **`AnimeAnytime` / `MangaVortex`**  
-  → Scalable content platforms engineered with optimized APIs and dynamic data pipelines.
+  → Scalable content platforms with optimized APIs and data pipelines.
 
 ---
 
 #### `[ 04 ] EMERGENT SYSTEMS`
 * **`Project Mai`** *(WIP)*  
-  → Emotionally adaptive AI with memory, personality modeling, and conversational intelligence.
+  → Adaptive AI with memory, personality, and conversational modeling.
 
 ---
 
@@ -92,7 +92,7 @@ Focused on machine learning, reinforcement systems, and computational modeling o
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dharani-R-S/Dharani-R-S/output/github-contribution-grid-snake.svg" alt="Contribution Activity Matrix" />
+  <img src="https://raw.githubusercontent.com/Dharani-R-S/Dharani-R-S/output/github-contribution-grid-snake.svg" />
 </p>
 
 <br>
@@ -106,16 +106,12 @@ Focused on machine learning, reinforcement systems, and computational modeling o
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharani-R-S&show_icons=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&hide_border=true&hide_rank=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani-R-S&layout=compact&bg_color=000000&title_color=ffffff&text_color=a3a3a3&hide_border=true" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharani-R-S&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=a3a3a3&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=a3a3a3&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharani-R-S&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharani-R-S&show_icons=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&hide_border=true&hide_rank=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani-R-S&layout=compact&bg_color=000000&title_color=ffffff&text_color=a3a3a3&hide_border=true" />
 </p>
 
 <br>
