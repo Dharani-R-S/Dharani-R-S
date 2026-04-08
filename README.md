@@ -1,89 +1,119 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1e1e2f&height=4" />
-
-<br><br>
-
-<p align="center">
-  <h1 align="center">D H A R A N I &nbsp; R &nbsp; S</h1>
-</p>
-
-<p align="center">
-  <i>"I am here to fill the vacancy of the heavens."</i>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d12,100:1a1b26&height=220&section=header&text=DHARANI%20R%20S&fontColor=7aa2f7&fontSize=60&animation=fadeIn&fontAlignY=38&desc=SYSTEM%20ARCHITECT%20//%20AI%20&%20PHYSICS&descAlignY=55&descAlign=55" />
+</div>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=a3a3a3&center=true&vCenter=true&width=600&lines=Artificial+Intelligence+Architect;Physics+%26+Machine+Learning;Generative+System+Design;Engineering+with+Absolute+Precision" />
+  <b><i>"Optimization is not a process. It is an absolute state."</i></b>
 </p>
-
-<br>
-
----
-
-<br>
-
-<h3 align="center">I N T E L L I G E N C E &nbsp; & &nbsp; I N F R A S T R U C T U R E</h3>
 
 <p align="center">
-Architecting intelligent ecosystems at the intersection of deep learning, predictive data science, and physical systems. Focused on building scalable, autonomous models and exploring the theoretical boundaries of algorithmic physics.
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=4000&pause=1000&color=7AA2F7&center=true&vCenter=true&width=600&lines=Initializing+Cognitive+Systems...;Deploying+Generative+Architectures...;Analyzing+Quantum+Heuristics...;Engineering+with+Absolute+Precision." />
 </p>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Dharani-R-S&label=SYSTEM+QUERIES&color=1a1b26&style=for-the-badge" />
+</div>
 
 <br>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,django,nodejs,mongodb,git&theme=dark" />
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/Email-0d0d12?style=for-the-badge&logo=gmail&logoColor=7AA2F7" />
+  </a>
+  <a href="https://linkedin.com/in/your-profile">
+    <img src="https://img.shields.io/badge/LinkedIn-0d0d12?style=for-the-badge&logo=linkedin&logoColor=7AA2F7" />
+  </a>
 </p>
 
 <br>
 
 ---
 
-<br>
+### 🎛️ `[ ARCHITECTURE & STACK ]`
 
-<h3 align="center">A R C H I T E C T U R E S</h3>
-
-<br>
-
-#### `[ 01 ] THEORETICAL AI & PHYSICS`
-* **`ai_law_discovery`** — An AI system engineered to discover hidden physical laws from simulated observations utilizing symbolic regression and interpretable hypothesis testing.
-* **`quantum_optimizer`** — A quantum-inspired optimization architecture comparing tunneling-style search heuristics with gradient descent across non-convex landscapes.
-
-#### `[ 02 ] APPLIED INTELLIGENCE & RL`
-* **`kanji_rl_spaced_repetition`** — A reinforcement learning prototype (Q-Learning) designed for adaptive, algorithmic spaced repetition, outperforming standard SM-2 baselines.
-* **`visionforge-ai` & `Resume-Builder_Translator-Agent`** — Specialized Generative AI architectures built for dynamic synthesis, cross-lingual NLP (EN ⇄ JP), and automated professional formatting.
-
-#### `[ 03 ] DATA SCIENCE & FULL-STACK SYSTEMS`
-* **`global-economic-dashboard`** — A comprehensive economic intelligence dashboard (Django/React) for tracking macro indicators, resilience rankings, and country-level trend analysis.
-* **Content Ecosystems** — Robust, scalable full-stack infrastructures (`AnimeAnytime`, `MangaVortex`) featuring optimized database routing and dynamic REST APIs.
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,cpp,react,django,nodejs,mongodb,docker,git,linux,aws&theme=dark&perline=12" />
+</div>
 
 <br>
 
 ---
 
-<br>
+### 🔬 `[ DEPLOYED PROTOCOLS ]`
 
-<h3 align="center">Q U A N T I F I C A T I O N</h3>
-
-<br>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharani-R-S&show_icons=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&hide_border=true&hide_rank=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharani-R-S&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=a3a3a3&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=a3a3a3&hide_border=true" />
-</p>
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🌌 Theoretical AI & Physics</h4>
+      <hr>
+      <ul>
+        <li><b><code>ai_law_discovery</code></b><br>Symbolic regression framework engineered to extract hidden physical laws from simulated chaotic environments.</li>
+        <br>
+        <li><b><code>quantum_optimizer</code></b><br>Non-convex landscape optimization comparing tunneling-style search heuristics with deep gradient descent.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">⚙️ Applied Intelligence</h4>
+      <hr>
+      <ul>
+        <li><b><code>kanji_rl_spaced_repetition</code></b><br>Reinforcement learning engine (Q-Learning) optimizing algorithmic memory retention beyond standard SM-2 baselines.</li>
+        <br>
+        <li><b><code>visionforge-ai</code></b><br>Generative synthesis architecture engineered for dynamic, high-fidelity modeling.</li>
+      </ul>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">📊 Data Ecosystems</h4>
+      <hr>
+      <ul>
+        <li><b><code>global-economic-dashboard</code></b><br>Full-stack econometric intelligence tracker utilizing macro-indicators and official resilience metrics.</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🔗 Infrastructure</h4>
+      <hr>
+      <ul>
+        <li><b>Autonomous Agents</b><br>Cross-lingual NLP models focusing on structural translation and logic formatting (EN ⇄ JP).</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 <br>
 
 ---
 
+### 📈 `[ SYSTEM TELEMETRY ]`
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharani-R-S&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&count_private=true" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani-R-S&layout=compact&theme=tokyonight&hide_border=true" width="48%" />
+</div>
+
 <br>
 
-<p align="center">
-<i>"Control is not imposed. It is established."</i>
-</p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharani-R-S&theme=tokyonight&hide_border=true" />
+</div>
 
 <br>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,100:000000&height=4" />
+<div align="center">
+  <h4>`[ CHRONOLOGICAL ACTIVITY MATRIX ]`</h4>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Dharani-R-S/Dharani-R-S/output/github-contribution-grid-snake-dark.svg">
+    <img alt="GitHub Contribution Grid Snake" src="https://raw.githubusercontent.com/Dharani-R-S/Dharani-R-S/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br>
+
+---
+
+<div align="center">
+  <p><i>"Understanding the parameters is the first step to overriding them."</i></p>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1a1b26,100:0d0d12&height=6&section=footer" />
+</div>
