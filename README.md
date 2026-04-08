@@ -2,9 +2,7 @@
 
 <br><br>
 
-<p align="center">
-  <h1 align="center">D H A R A N I &nbsp; R &nbsp; S</h1>
-</p>
+<h1 align="center">D H A R A N I &nbsp; R &nbsp; S</h1>
 
 <p align="center">
   <i>"I am here to fill the vacancy of the heavens."</i>
@@ -20,8 +18,6 @@
 
 ---
 
-<br>
-
 <h3 align="center">I N T E L L I G E N C E &nbsp; & &nbsp; I N F R A S T R U C T U R E</h3>
 
 <p align="center">
@@ -35,11 +31,7 @@ Focused on machine learning, reinforcement systems, and computational modeling.
   <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,django,nodejs,mongodb,cpp,git,docker&theme=dark" />
 </p>
 
-<br>
-
 ---
-
-<br>
 
 <h3 align="center">A R C H I T E C T U R E S</h3>
 
@@ -47,7 +39,7 @@ Focused on machine learning, reinforcement systems, and computational modeling.
 
 #### `[ 01 ] THEORETICAL SYSTEMS`
 * **`ai_law_discovery`**  
-  → Infers latent physical laws from simulated environments via symbolic regression.
+  → Infers latent physical laws via symbolic regression.
 
 * **`quantum_optimizer`**  
   → Explores non-convex optimization using tunneling-inspired search.
@@ -56,7 +48,7 @@ Focused on machine learning, reinforcement systems, and computational modeling.
 
 #### `[ 02 ] INTELLIGENCE SYSTEMS`
 * **`kanji_rl_spaced_repetition`**  
-  → Reinforcement learning model for adaptive memory optimization.
+  → Reinforcement learning for adaptive memory optimization.
 
 * **`visionforge-ai`**  
   → Generative system for high-fidelity synthesis.
@@ -68,10 +60,10 @@ Focused on machine learning, reinforcement systems, and computational modeling.
 
 #### `[ 03 ] FULL-STACK SYSTEMS`
 * **`global-economic-dashboard`**  
-  → Economic intelligence system for macro indicators and trend analysis.
+  → Economic intelligence system for macro trend analysis.
 
 * **`AnimeAnytime` / `MangaVortex`**  
-  → Scalable content platforms with optimized APIs and data pipelines.
+  → Scalable content platforms with optimized APIs.
 
 ---
 
@@ -81,12 +73,6 @@ Focused on machine learning, reinforcement systems, and computational modeling.
 
 ---
 
-<br>
-
----
-
-<br>
-
 <h3 align="center">A C T I V I T Y &nbsp; M A T R I X</h3>
 
 <br>
@@ -95,11 +81,7 @@ Focused on machine learning, reinforcement systems, and computational modeling.
   <img src="https://raw.githubusercontent.com/Dharani-R-S/Dharani-R-S/output/github-contribution-grid-snake.svg" />
 </p>
 
-<br>
-
 ---
-
-<br>
 
 <h3 align="center">Q U A N T I F I C A T I O N &nbsp; & &nbsp; M E T R I C S</h3>
 
@@ -114,11 +96,7 @@ Focused on machine learning, reinforcement systems, and computational modeling.
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani-R-S&layout=compact&bg_color=000000&title_color=ffffff&text_color=a3a3a3&hide_border=true" />
 </p>
 
-<br>
-
 ---
-
-<br>
 
 <p align="center">
 <i>"Control is not imposed. It is established."</i>
