@@ -88,11 +88,14 @@ Focused on machine learning, reinforcement systems, and computational modeling.
 <br>
 
 <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharani-R-S&show_icons=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&hide_border=true&hide_rank=true" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharani-R-S&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=a3a3a3&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=a3a3a3&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharani-R-S&show_icons=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&hide_border=true&hide_rank=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani-R-S&layout=compact&bg_color=000000&title_color=ffffff&text_color=a3a3a3&hide_border=true" />
 </p>
 
