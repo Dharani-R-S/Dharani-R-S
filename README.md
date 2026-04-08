@@ -1,110 +1,100 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:1e1e2f&height=4" />
-
-<br><br>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:1e1e2f&height=120&section=header"/>
 
 <h1 align="center">D H A R A N I &nbsp; R &nbsp; S</h1>
 
 <p align="center">
-  <i>"I am here to fill the vacancy of the heavens."</i>
+  <b>Architect of Intelligence • Designer of Systems • Student of Reality</b>
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?color=a3a3a3&center=true&vCenter=true&width=600&lines=Architecting+Cognitive+Systems;Artificial+Intelligence+%26+Physics;Generative+System+Design;Engineering+with+Precision" />
+  <i>"I am not here to use intelligence. I am here to create it."</i>
 </p>
 
-<br>
-
----
-
-<h3 align="center">I N T E L L I G E N C E &nbsp; & &nbsp; I N F R A S T R U C T U R E</h3>
-
 <p align="center">
-Designing systems that learn, adapt, and scale.<br>
-Focused on machine learning, reinforcement systems, and computational modeling.
+  <img src="https://readme-typing-svg.herokuapp.com?color=9f9f9f&center=true&vCenter=true&width=700&lines=Cognitive+System+Architecture;Artificial+Intelligence+%2B+Physics;Reinforcement+Learning+Systems;Emergent+Behavior+Engineering;Generative+System+Design" />
 </p>
 
-<br>
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,django,nodejs,mongodb,cpp,git,docker&theme=dark" />
+  <img src="https://komarev.com/ghpvc/?username=Dharani-R-S&color=grey&style=flat-square" />
 </p>
 
 ---
 
-<h3 align="center">A R C H I T E C T U R E S</h3>
-
-<br>
-
-#### `[ 01 ] THEORETICAL SYSTEMS`
-* **`ai_law_discovery`**  
-  → Infers latent physical laws via symbolic regression.
-
-* **`quantum_optimizer`**  
-  → Explores non-convex optimization using tunneling-inspired search.
-
----
-
-#### `[ 02 ] INTELLIGENCE SYSTEMS`
-* **`kanji_rl_spaced_repetition`**  
-  → Reinforcement learning for adaptive memory optimization.
-
-* **`visionforge-ai`**  
-  → Generative system for high-fidelity synthesis.
-
-* **`Resume-Builder_Translator-Agent`**  
-  → Cross-lingual system for EN ⇄ JP transformation.
-
----
-
-#### `[ 03 ] FULL-STACK SYSTEMS`
-* **`global-economic-dashboard`**  
-  → Economic intelligence system for macro trend analysis.
-
-* **`AnimeAnytime` / `MangaVortex`**  
-  → Scalable content platforms with optimized APIs.
-
----
-
-#### `[ 04 ] EMERGENT SYSTEMS`
-* **`Project Mai`** *(WIP)*  
-  → Adaptive AI with memory, personality, and conversational modeling.
-
----
-
-<h3 align="center">A C T I V I T Y &nbsp; M A T R I X</h3>
-
-<br>
+<h3 align="center">⟡ SYSTEM PHILOSOPHY ⟡</h3>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Dharani-R-S/Dharani-R-S/output/github-contribution-grid-snake.svg" />
+Intelligence is not programmed — it emerges.<br>
+Systems are not built — they evolve.<br>
+Control is not enforced — it stabilizes.
 </p>
 
 ---
 
-<h3 align="center">Q U A N T I F I C A T I O N &nbsp; & &nbsp; M E T R I C S</h3>
-
-<br>
+<h3 align="center">⟡ INTELLIGENCE STACK ⟡</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Dharani-R-S&show_icons=true&bg_color=000000&title_color=ffffff&text_color=a3a3a3&icon_color=ffffff&hide_border=true&hide_rank=true" />
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,react,django,nodejs,mongodb,cpp,docker,git&theme=dark" />
+</p>
+
+---
+
+<h3 align="center">⟡ ARCHITECTURE MODULES ⟡</h3>
+
+---
+
+### ◼ THEORETICAL SYSTEMS
+- **ai_law_discovery** → Infers hidden physical laws using symbolic regression  
+- **quantum_optimizer** → Solves non-convex optimization via tunneling-inspired search  
+
+---
+
+### ◼ INTELLIGENCE SYSTEMS
+- **kanji_rl_spaced_repetition** → Reinforcement learning for adaptive memory  
+- **visionforge_ai** → High-fidelity generative system  
+- **resume_builder_agent** → EN ⇄ JP intelligent transformation system  
+
+---
+
+### ◼ FULL-STACK SYSTEMS
+- **global_economic_dashboard** → Macro trend analysis & economic intelligence  
+- **AnimeAnytime / MangaVortex** → Scalable content platforms  
+
+---
+
+### ◼ EMERGENT SYSTEMS
+- **Project Mai (WIP)** → Adaptive AI with personality, memory, and voice  
+
+---
+
+<h3 align="center">⟡ ACTIVITY MATRIX ⟡</h3>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Dharani-R-S/Dharani-R-S/output/github-contribution-grid-snake.svg" width="95%" />
+</p>
+
+---
+
+<h3 align="center">⟡ QUANTIFICATION ⟡</h3>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Dharani-R-S&theme=github_dark" width="95%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Dharani-R-S&background=000000&ring=ffffff&fire=ffffff&currStreakNum=ffffff&sideNums=a3a3a3&currStreakLabel=a3a3a3&sideLabels=a3a3a3&dates=a3a3a3&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Dharani-R-S&show_icons=true&theme=dark&hide_border=true" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani-R-S&layout=compact&theme=dark&hide_border=true" height="150" />
 </p>
 
+---
+
+<h3 align="center">⟡ SIGNAL ⟡</h3>
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dharani-R-S&layout=compact&bg_color=000000&title_color=ffffff&text_color=a3a3a3&hide_border=true" />
+<i>"When systems begin to think, the architect disappears."</i>
 </p>
 
 ---
 
 <p align="center">
-<i>"Control is not imposed. It is established."</i>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,100:000000&height=6" />
 </p>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:1e1e2f,100:000000&height=4" />
